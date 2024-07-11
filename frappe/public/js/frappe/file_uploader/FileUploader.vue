@@ -70,6 +70,9 @@
 						<div class="mt-1">{{ __('Google Drive') }}</div>
 					</button>
 				</div>
+				<div class="mt-2 text-muted text-medium">
+					Maximum upload file size: 10MB
+				</div>
 				<div class="text-muted text-medium">
 					{{ upload_notes }}
 				</div>
